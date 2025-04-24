@@ -1,0 +1,36 @@
+# 유니티 기본
+Library/
+Temp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+MemoryCaptures/
+
+# 유니티 빌드 결과물
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+*.ipa
+
+# 유니티 캐시
+UserSettings/
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS별 무시할 파일
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
